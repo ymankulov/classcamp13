@@ -72,6 +72,7 @@ body {
   h1 {
     font-size: 63px;
     font-weight: 400;
+    color: red;
     letter-spacing: 2.880000114440918px;
   }
   h4 {
@@ -724,18 +725,15 @@ body {
     font-weight: 400;
     color: #ffffff;
   }
-
 }
-.footer-icons{
-  display:flex;
+.footer-icons {
+  display: flex;
   gap: 12px;
   font-size: 30px;
   a {
     padding: 10px 0 0 0;
-  color: white;
-
+    color: white;
   }
-
 }
 
 /* FOOTER */
